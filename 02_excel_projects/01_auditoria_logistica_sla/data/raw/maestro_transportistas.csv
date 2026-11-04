@@ -1,0 +1,8 @@
+Transportista,SLA_Objetivo_Dias,Tarifa_Base_Kg,Cobertura
+Buslog,5,4.2,Sul
+Correios,8,3.1,Nacional
+Jadlog,6,3.8,"Sul, Sudeste"
+Loggi,3,5.5,Sudeste
+Sequoia,7,4.9,"Norte, Centro-Oeste"
+Total Express,4,5.1,Nacional
+Via Brasil,9,3.6,"Norte, Nordeste"

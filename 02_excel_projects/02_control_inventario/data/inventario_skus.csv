@@ -1,0 +1,266 @@
+ID_Producto,Nombre_Producto,Categoria,Subcategoria,Stock_Actual,Venta_Promedio_Diaria,Proveedor,Lead_Time_Dias,Punto_Reorden
+842,"Touring-Panniers, Large", Accesorios,Alforjas,72,0.000,International Trek Center,120,3
+844,Minipump,Accesorios,Bombas,288,0.000,International Trek Center,25,3
+845,Mountain Pump,Accesorios,Bombas,324,0.000,International Trek Center,25,3
+871,Mountain Bottle Cage,Accesorios,Botellas,288,5.395,Green Lake Bike Company,45,3
+872,Road Bottle Cage,Accesorios,Botellas,324,4.474,Green Lake Bike Company,45,3
+870,Water Bottle - 30 oz.,Accesorios,Botellas,252,16.764,,45,3
+843,Cable Lock,Accesorios,Candados,,0.003,International Trek Center,10,3
+708,"Sport-100 Helmet, Black",Accesorios,Cascos,324,10.274,G & K Bicycle Corp.,1,3
+711,"Sport-100 Helmet, Blue",Accesorios,Cascos,216,10.285,G & K Bicycle Corp.,90,3
+707,"Sport-100 Helmet, Red", Accesorios,Cascos,288,10.132,G & K Bicycle Corp.,30,3
+878,Fender Set - Mountain,Accesorios,Guardafangos,108,5.668,Green Lake Bike Company,45,3
+880,Hydration Pack - 70 oz.,Accesorios,Hidratación,108,6.178,Green Lake Bike Company,45,3
+877,Bike Wash - Dissolver,Accesorios,Limpiadores,36,7.488,Green Lake Bike Company,45,3
+930,HL Mountain Tire,ACCESORIOS,Llantas,499,3.734,"Trikes, Inc.",19,375
+933,HL Road Tire,Accesorios,Llantas,527,2.255,Victory Bikes,19,375
+928,LL Mountain Tire,Accesorios,Llantas,609,2.353,Vista Road Bikes,19,375
+931,LL Road Tire,Accesorios,Llantas,488,2.805,Signature Cycles,19,375
+929,ML Mountain Tire,Accesorios ,Llantas,669,3.156,Vista Road Bikes,19,375
+932,ML Road Tire, Accesorios,Llantas,574,2.479,Signature Cycles,19,375
+921,Mountain Tire Tube,Accesorios,Llantas,529,8.392,"Trikes, Inc.",19,375
+873,Patch Kit/8 Patches,Accesorios,Llantas,180,9.929,Green Lake Bike Company,45,3
+922,Road Tire Tube,Accesorios,Llantas,505,6.381,Victory Bikes,19,375
+934,Touring Tire,Accesorios,Llantas,482,2.529,Victory Bikes,19,375
+923,Touring Tire Tube,accesorios,Llantas,502,4.044,Victory Bikes,19,375
+847,Headlights - Dual-Beam,Accesorios,Luces,180,0.000,International Trek Center,30,3
+848,Headlights - Weatherproof,Accesorios,Luces,216,0.000,International Trek Center,45,3
+846,Taillights - Battery-Powered,ACCESORIOS,Luces,144,0.000,International Trek Center,30,3
+876,Hitch Rack - 4-Bike, Accesorios,Portabicicletas,0,7.049,Green Lake Bike Company,45,3
+879,All-Purpose Bike Stand,Accesorios,Soportes,144,0.666,Green Lake Bike Company,45,3
+952,Chain,Componentes,Cadenas,589,1.762,Varsity Sport Co.,19,375
+948,Front Brakes,Componentes,Frenos,767,1.740,Superior Bicycles,19,375
+907,Rear Brakes,Componentes,Frenos,723,0.512,Superior Bicycles,19,375
+937,HL Mountain Pedal,Componentes,Pedales,503,1.729,Inline Accessories,18,375
+940,HL Road Pedal,Componentes,Pedales,906,1.405,"Compete Enterprises, Inc",15,375
+935,LL Mountain Pedal,Componentes ,Pedales,512,0.882,Greenwood Athletic Company,18,375
+938,LL Road Pedal,Componentes,Pedales,498,1.803,Mitchell Sports,16,375
+936,ML Mountain Pedal, Componentes,Pedales,507,0.737,Greenwood Athletic Company,18,375
+939,ML Road Pedal,Componentes,Pedales,494,1.403,Mitchell Sports,16,375
+941,Touring Pedal,Componentes,Pedales,885,0.260,Bicycle Specialists,17,375
+910,HL Mountain Seat/Saddle,COMPONENTES,Sillines,355,1.099,Hybrid Bicycle Center,18,375
+913,HL Road Seat/Saddle,Componentes,Sillines,467,0.148,First Rate Bicycles,15,375
+916,HL Touring Seat/Saddle,Componentes,Sillines,989,0.899,Expert Bike Co,15,375
+908,LL Mountain Seat/Saddle,Componentes,Sillines,809,0.696,First Rate Bicycles,15,375
+911,LL Road Seat/Saddle,Componentes,Sillines,906,0.025,Hill's Bicycle Service,18,375
+914,LL Touring Seat/Saddle,Componentes,Sillines,801,0.129,Expert Bike Co,15,375
+909,ML Mountain Seat/Saddle, Componentes,Sillines,422,1.110,First Rate Bicycles,15,375
+912,ML Road Seat/Saddle,componentes,Sillines,901,0.000,Hill's Bicycle Service,18,375
+915,ML Touring Seat/Saddle,Componentes,Sillines,402,0.145,Expert Bike Co,15,375
+409,External Lock Washer 1,Insumos,Arandelas,1046,0.000,Expert Bike Co,15,750
+411,External Lock Washer 2,Insumos,Arandelas,1614,0.000,Pro Sport Industries,19,750
+403,External Lock Washer 3,Insumos,Arandelas,981,0.000,Expert Bike Co,15,750
+404,External Lock Washer 4,Insumos ,Arandelas,972,0.000,Pro Sport Industries,19,750
+406,External Lock Washer 5,INSUMOS,Arandelas,952,0.000,Expert Bike Co,15,750
+408,External Lock Washer 6,Insumos,Arandelas,1057,0.000,Pro Sport Industries,19,750
+407,External Lock Washer 7, Insumos,Arandelas,1672,0.000,Pro Sport Industries,19,750
+410,External Lock Washer 8,Insumos,Arandelas,1037,0.000,Pro Sport Industries,19,750
+405,External Lock Washer 9,Insumos,Arandelas,963,0.000,Pro Sport Industries,19,750
+341,Flat Washer 1,Insumos,Arandelas,,0.000,Continental Pro Cycles,15,750
+343,Flat Washer 1,Insumos,Arandelas,1673,0.000,Continental Pro Cycles,15,750
+346,Flat Washer 3,Insumos,Arandelas,1702,0.000,Continental Pro Cycles,15,750
+345,Flat Washer 4,Insumos,Arandelas,936,0.000,Continental Pro Cycles,15,750
+348,Flat Washer 5,Insumos,Arandelas,911,0.000,Continental Pro Cycles,15,750
+342,Flat Washer 6,Insumos,Arandelas,1093,0.000,Continental Pro Cycles,15,750
+349,Flat Washer 7, Insumos,Arandelas,926,0.000,Continental Pro Cycles,15,750
+347,Flat Washer 8,Insumos,Arandelas,896,0.000,Continental Pro Cycles,15,750
+344,Flat Washer 9,INSUMOS,Arandelas,1072,0.000,Continental Pro Cycles,15,750
+419,Internal Lock Washer 1,Insumos,Arandelas,914,0.000,Aurora Bike Center,17,750
+418,Internal Lock Washer 10,Insumos,Arandelas,919,0.000,Aurora Bike Center,17,750
+421,Internal Lock Washer 2,Insumos ,Arandelas,905,0.000,Pro Sport Industries,19,750
+412,Internal Lock Washer 3,insumos,Arandelas,776,0.000,Pro Sport Industries,19,750
+413,Internal Lock Washer 4,Insumos,Arandelas,1703,0.000,Aurora Bike Center,17,750
+415,Internal Lock Washer 5,Insumos,Arandelas,1104,0.000,Aurora Bike Center,17,750
+417,Internal Lock Washer 6, Insumos,Arandelas,1715,0.000,Aurora Bike Center,17,750
+416,Internal Lock Washer 7,Insumos,Arandelas,1090,0.000,Aurora Bike Center,17,750
+420,Internal Lock Washer 8,Insumos,Arandelas,909,0.000,Aurora Bike Center,17,750
+414,Internal Lock Washer 9,Insumos,Arandelas,1119,0.000,Aurora Bike Center,17,750
+402,Keyed Washer,Insumos,Arandelas,990,0.000,Wide World Importers,15,750
+469,Lock Washer 1,Insumos,Arandelas,1714,0.000,Inner City Bikes,18,750
+465,Lock Washer 10,INSUMOS,Arandelas,1695,0.000,Inner City Bikes,18,750
+475,Lock Washer 11,Insumos,Arandelas,1743,0.000,Inner City Bikes,18,750
+471,Lock Washer 12,Insumos,Arandelas,1724,0.000,Inner City Bikes,18,750
+467,Lock Washer 13, Insumos,Arandelas,1704,0.000,Inner City Bikes,18,750
+472,Lock Washer 2,Insumos,Arandelas,1728,0.000,Inner City Bikes,18,750
+474,Lock Washer 3,Insumos,Arandelas,1738,0.000,Inner City Bikes,18,750
+463,Lock Washer 4,Insumos,Arandelas,1685,0.000,Inner City Bikes,18,750
+464,Lock Washer 5,Insumos ,Arandelas,1690,0.000,Inner City Bikes,18,750
+466,Lock Washer 6,Insumos,Arandelas,1700,0.000,Inner City Bikes,18,750
+470,Lock Washer 7,Insumos,Arandelas,1719,0.000,Inner City Bikes,18,750
+468,Lock Washer 8,Insumos,Arandelas,1709,0.000,Inner City Bikes,18,750
+473,Lock Washer 9,Insumos,Arandelas,1733,0.000,Inner City Bikes,18,750
+528,Seat Lug, Insumos,Asientos,1653,0.000,Metro Sport Equipment,16,750
+530,Seat Post,INSUMOS,Asientos,780,0.000,Allenson Cycles,17,375
+526,HL Shell,insumos,Carcasas,1211,0.000,First National Sport Co.,15,600
+525,LL Shell,Insumos,Carcasas,1263,0.000,Federal Sport,15,600
+1,Adjustable Race,Insumos,Dirección,1085,0.000,"Litware, Inc.",17,750
+505,Cone-Shaped Race,Insumos,Dirección,970,0.000,"Midwest Sport, Inc.",16,750
+323,Crown Race,Insumos,Dirección,1684,0.000,Business Equipment Center,17,750
+504,Cup-Shaped Race,Insumos,Dirección,1084,0.000,Bloomington Multisport,17,750
+462,Lower Head Race,Insumos,Dirección,701,0.000,International,18,750
+524,HL Spindle/Axle, Insumos,Ejes,459,0.000,Hill Bicycle Center,18,375
+523,LL Spindle/Axle,Insumos,Ejes,512,0.000,Lakewood Bicycle,16,375
+476,Metal Angle,Insumos,Metales,1083,0.000,"Custom Frames, Inc.",15,750
+477,Metal Bar 1,Insumos ,Metales,1079,0.000,"Custom Frames, Inc.",15,750
+478,Metal Bar 2,Insumos,Metales,1687,0.000,"Custom Frames, Inc.",15,750
+480,Metal Plate 1,INSUMOS,Metales,1661,0.000,"Custom Frames, Inc.",15,750
+479,Metal Plate 2,Insumos,Metales,1029,0.000,"Custom Frames, Inc.",15,750
+481,Metal Plate 3,Insumos,Metales,997,0.000,"Custom Frames, Inc.",15,750
+488,Metal Sheet 1,Insumos,Metales,935,0.000,"Custom Frames, Inc.",15,750
+482,Metal Sheet 2, Insumos,Metales,924,0.000,"Custom Frames, Inc.",15,750
+483,Metal Sheet 3,Insumos,Metales,1681,0.000,"Custom Frames, Inc.",15,750
+485,Metal Sheet 4,Insumos,Metales,924,0.000,"Custom Frames, Inc.",15,750
+486,Metal Sheet 5,Insumos,Metales,1661,0.000,"Custom Frames, Inc.",15,750
+487,Metal Sheet 6,Insumos,Metales,992,0.000,"Custom Frames, Inc.",15,750
+484,Metal Sheet 7,Insumos,Metales,997,0.000,"Custom Frames, Inc.",15,750
+489,Metal Tread Plate,Insumos,Metales,1837,0.000,"Custom Frames, Inc.",15,750
+325,Decal 1,insumos,Otros,1750,0.000,SUPERSALES INC.,19,750
+326,Decal 2,Insumos,Otros,1684,0.000,SUPERSALES INC.,19,750
+358,HL Grip Tape, Insumos,Otros,693,0.000,Morgan Bike Accessories,16,600
+356,LL Grip Tape,Insumos,Otros,780,0.000,National Bike Association,16,600
+461,Lock Ring,Insumos ,Otros,1652,0.000,Bergeron Off-Roads,17,750
+357,ML Grip Tape,Insumos,Otros,736,0.000,Gardner Touring Cycles,18,600
+497,Pinch Bolt,Insumos,Otros,973,0.000,Burnett Road Warriors,17,750
+506,Reflector,Insumos,Otros,827,0.000,Chicago Rent-All,15,750
+492,Paint - Black,Insumos,Pinturas,47,0.000,Carlson Specialties,17,45
+495,Paint - Blue,Insumos,Pinturas,109,0.000,Trey Research,16,45
+493,Paint - Red,Insumos,Pinturas,93,0.000,Carlson Specialties,17,45
+494,Paint - Silver, Insumos,Pinturas,65,0.000,Trey Research,16,45
+496,Paint - Yellow,Insumos,Pinturas,99,0.000,Carlson Specialties,17,45
+491,HL Nipple,Insumos,Radios,922,0.000,Lindell,16,750
+490,LL Nipple,Insumos,Radios,1780,0.000,Northern Bike Travel,16,750
+527,Spokes,INSUMOS,Radios,1590,0.000,International Sport Assoc.,18,750
+509,HL Mountain Rim,Insumos,Rines,1247,0.000,Jackson Authority,16,600
+512,HL Road Rim,Insumos,Rines,615,0.000,Electronic Bike Repair & Supplies,15,600
+507,LL Mountain Rim,Insumos,Rines,,0.000,Competition Bike Training Systems,15,600
+510,LL Road Rim,Insumos,Rines,722,0.000,Electronic Bike Repair & Supplies,15,600
+508,ML Mountain Rim, Insumos,Rines,1231,0.000,Comfort Road Bicycles,15,600
+511,ML Road Rim,Insumos ,Rines,740,0.000,International Bicycles,18,600
+513,Touring Rim,Insumos,Rines,1364,0.000,Anderson's Custom Bikes,17,600
+2,Bearing Ball,insumos,Rodamientos,1109,0.000,Wood Fitness,19,750
+4,Headset Ball Bearings,Insumos,Rodamientos,1322,0.000,American Bicycles and Wheels,17,600
+322,Chainring,Insumos,Transmisión,1684,0.000,Beaumont Bikes,17,750
+320,Chainring Bolts,Insumos,Transmisión,1136,0.000,Bike Satellite Inc.,17,750
+332,Freewheel,Insumos,Transmisión,844,0.000,Sport Playground,19,375
+351,Front Derailleur Cage,INSUMOS,Transmisión,605,0.000,Circuit Cycles,15,600
+352,Front Derailleur Linkage, Insumos,Transmisión,773,0.000,Circuit Cycles,15,600
+355,Guide Pulley,Insumos,Transmisión,822,0.000,"Compete Enterprises, Inc",15,600
+319,HL Crankarm,Insumos,Transmisión,797,0.000,"Proseware, Inc.",17,375
+317,LL Crankarm,Insumos,Transmisión,593,0.000,"Proseware, Inc.",17,375
+318,ML Crankarm,Insumos,Transmisión,439,0.000,"Proseware, Inc.",17,375
+679,Rear Derailleur Cage,Insumos,Transmisión,421,0.000,Circuit Cycles,15,375
+535,Tension Pulley,Insumos,Transmisión,836,0.000,"Compete Enterprises, Inc",15,600
+321,Chainring Nut,Insumos,Tuercas,1750,0.000,Bike Satellite Inc.,17,750
+386,Hex Nut 1,Insumos,Tuercas,725,0.000,Cruger Bike Company,15,750
+387,Hex Nut 10, Insumos,Tuercas,1888,0.000,Cruger Bike Company,15,750
+388,Hex Nut 11,Insumos,Tuercas,798,0.000,Cruger Bike Company,15,750
+384,Hex Nut 12,Insumos,Tuercas,820,0.000,Norstan Bike Hut,16,750
+385,Hex Nut 13,INSUMOS,Tuercas,1778,0.000,Cruger Bike Company,15,750
+393,Hex Nut 14,Insumos,Tuercas,1880,0.000,Cruger Bike Company,15,750
+394,Hex Nut 15,Insumos,Tuercas,911,0.000,Cruger Bike Company,15,750
+377,Hex Nut 16,Insumos,Tuercas,941,0.000,Cruger Bike Company,15,750
+378,Hex Nut 17,Insumos,Tuercas,926,0.000,Norstan Bike Hut,16,750
+396,Hex Nut 18,insumos,Tuercas,1824,0.000,Norstan Bike Hut,16,750
+397,Hex Nut 19, Insumos,Tuercas,1652,0.000,Norstan Bike Hut,16,750
+389,Hex Nut 2,Insumos,Tuercas,1808,0.000,Norstan Bike Hut,16,750
+390,Hex Nut 20,Insumos,Tuercas,798,0.000,Cruger Bike Company,15,750
+391,Hex Nut 21,Insumos,Tuercas,809,0.000,Cruger Bike Company,15,750
+382,Hex Nut 22,Insumos,Tuercas,808,0.000,Norstan Bike Hut,16,750
+383,Hex Nut 23,Insumos,Tuercas,1901,0.000,Norstan Bike Hut,16,750
+392,Hex Nut 3,Insumos,Tuercas,818,0.000,Norstan Bike Hut,16,750
+395,Hex Nut 4,INSUMOS,Tuercas,784,0.000,Norstan Bike Hut,16,750
+375,Hex Nut 5,Insumos ,Tuercas,925,0.000,Norstan Bike Hut,16,750
+376,Hex Nut 6, Insumos,Tuercas,1781,0.000,Cruger Bike Company,15,750
+379,Hex Nut 7,Insumos,Tuercas,1911,0.000,Cruger Bike Company,15,750
+380,Hex Nut 8,Insumos,Tuercas,770,0.000,Mountain Works,16,750
+381,Hex Nut 9,Insumos,Tuercas,789,0.000,Norstan Bike Hut,16,750
+449,Lock Nut 1,Insumos,Tuercas,1560,0.000,Mountain Works,16,750
+450,Lock Nut 10,Insumos,Tuercas,1546,0.000,Mountain Works,16,750
+451,Lock Nut 11,Insumos,Tuercas,1556,0.000,Mountain Works,16,750
+447,Lock Nut 12,Insumos,Tuercas,1589,0.000,Mountain Works,16,750
+448,Lock Nut 13,Insumos,Tuercas,1575,0.000,Mountain Works,16,750
+456,Lock Nut 14, Insumos,Tuercas,1604,0.000,Bergeron Off-Roads,17,750
+457,Lock Nut 15,Insumos,Tuercas,1613,0.000,Bergeron Off-Roads,17,750
+440,Lock Nut 16,INSUMOS,Tuercas,1690,0.000,Bergeron Off-Roads,17,750
+441,Lock Nut 17,Insumos,Tuercas,1676,0.000,Bergeron Off-Roads,17,750
+460,Lock Nut 18,insumos,Tuercas,1642,0.000,Bergeron Off-Roads,17,750
+459,Lock Nut 19,Insumos,Tuercas,1632,0.000,Bergeron Off-Roads,17,750
+452,Lock Nut 2,Insumos,Tuercas,1565,0.000,Mountain Works,16,750
+453,Lock Nut 20,Insumos ,Tuercas,1575,0.000,Mountain Works,16,750
+454,Lock Nut 21,Insumos,Tuercas,1584,0.000,Bergeron Off-Roads,17,750
+445,Lock Nut 22, Insumos,Tuercas,1618,0.000,Bergeron Off-Roads,17,750
+446,Lock Nut 23,Insumos,Tuercas,1604,0.000,Bergeron Off-Roads,17,750
+455,Lock Nut 3,Insumos,Tuercas,1594,0.000,Mountain Works,16,750
+458,Lock Nut 4,Insumos,Tuercas,1623,0.000,Mountain Works,16,750
+438,Lock Nut 5,Insumos,Tuercas,1671,0.000,Bergeron Off-Roads,17,750
+439,Lock Nut 6,Insumos,Tuercas,1680,0.000,Bergeron Off-Roads,17,750
+442,Lock Nut 7,INSUMOS,Tuercas,1661,0.000,Bergeron Off-Roads,17,750
+443,Lock Nut 8,Insumos,Tuercas,1647,0.000,Bergeron Off-Roads,17,750
+444,Lock Nut 9,Insumos,Tuercas,1632,0.000,Bergeron Off-Roads,17,750
+361,Thin-Jam Hex Nut 1, Insumos,Tuercas,1631,0.000,WestAmerica Bicycle Co.,19,750
+360,Thin-Jam Hex Nut 10,Insumos,Tuercas,1084,0.000,WestAmerica Bicycle Co.,19,750
+374,Thin-Jam Hex Nut 11,Insumos,Tuercas,916,0.000,WestAmerica Bicycle Co.,19,750
+373,Thin-Jam Hex Nut 12,Insumos,Tuercas,906,0.000,WestAmerica Bicycle Co.,19,750
+369,Thin-Jam Hex Nut 13,Insumos,Tuercas,1084,0.000,WestAmerica Bicycle Co.,19,750
+370,Thin-Jam Hex Nut 14,Insumos,Tuercas,883,0.000,WestAmerica Bicycle Co.,19,750
+363,Thin-Jam Hex Nut 15,Insumos ,Tuercas,1761,0.000,WestAmerica Bicycle Co.,19,750
+364,Thin-Jam Hex Nut 16,Insumos,Tuercas,1052,0.000,WestAmerica Bicycle Co.,19,750
+362,Thin-Jam Hex Nut 2,Insumos,Tuercas,1026,0.000,WestAmerica Bicycle Co.,19,750
+367,Thin-Jam Hex Nut 3, Insumos,Tuercas,1901,0.000,WestAmerica Bicycle Co.,19,750
+368,Thin-Jam Hex Nut 4,INSUMOS,Tuercas,1103,0.000,WestAmerica Bicycle Co.,19,750
+365,Thin-Jam Hex Nut 5,Insumos,Tuercas,1721,0.000,WestAmerica Bicycle Co.,19,750
+366,Thin-Jam Hex Nut 6,Insumos,Tuercas,1029,0.000,WestAmerica Bicycle Co.,19,750
+371,Thin-Jam Hex Nut 7,Insumos,Tuercas,1781,0.000,WestAmerica Bicycle Co.,19,750
+372,Thin-Jam Hex Nut 8,Insumos,Tuercas,897,0.000,WestAmerica Bicycle Co.,19,750
+359,Thin-Jam Hex Nut 9,Insumos,Tuercas,1103,0.000,WestAmerica Bicycle Co.,19,750
+424,Thin-Jam Lock Nut 1,Insumos,Tuercas,1623,0.000,Australia Bike Retailer,17,750
+423,Thin-Jam Lock Nut 10,Insumos,Tuercas,1628,0.000,Australia Bike Retailer,17,750
+437,Thin-Jam Lock Nut 11, Insumos,Tuercas,1661,0.000,Australia Bike Retailer,17,750
+436,Thin-Jam Lock Nut 12,Insumos,Tuercas,1652,0.000,Australia Bike Retailer,17,750
+432,Thin-Jam Lock Nut 13,Insumos,Tuercas,1613,0.000,Australia Bike Retailer,17,750
+433,Thin-Jam Lock Nut 14,Insumos,Tuercas,1623,0.000,Australia Bike Retailer,17,750
+426,Thin-Jam Lock Nut 15,Insumos,Tuercas,1613,0.000,Australia Bike Retailer,17,750
+427,Thin-Jam Lock Nut 16,INSUMOS,Tuercas,1608,0.000,Australia Bike Retailer,17,750
+425,Thin-Jam Lock Nut 2,Insumos,Tuercas,1618,0.000,Australia Bike Retailer,17,750
+430,Thin-Jam Lock Nut 3,Insumos,Tuercas,1594,0.000,Australia Bike Retailer,17,750
+431,Thin-Jam Lock Nut 4,Insumos,Tuercas,1604,0.000,Australia Bike Retailer,17,750
+428,Thin-Jam Lock Nut 5, Insumos,Tuercas,1604,0.000,Australia Bike Retailer,17,750
+429,Thin-Jam Lock Nut 6,Insumos,Tuercas,1599,0.000,Australia Bike Retailer,17,750
+434,Thin-Jam Lock Nut 7,Insumos,Tuercas,1632,0.000,Australia Bike Retailer,17,750
+435,Thin-Jam Lock Nut 8,Insumos,Tuercas,1642,0.000,Australia Bike Retailer,17,750
+422,Thin-Jam Lock Nut 9,Insumos,Tuercas,1632,0.000,Australia Bike Retailer,17,750
+854,"Women's Tights, L",ropa,Calzas,36,0.019,Fitness Association,60,3
+853,"Women's Tights, M",Ropa,Calzas,0,0.000,Fitness Association,60,3
+852,"Women's Tights, S",Ropa,Calzas,324,0.030,Fitness Association,60,3
+866,"Classic Vest, L",Ropa,Chalecos,252,0.542,Team Athletic Co.,35,3
+865,"Classic Vest, M", Ropa,Chalecos,216,4.811,Team Athletic Co.,35,3
+864,"Classic Vest, S",Ropa,Chalecos,,9.342,Team Athletic Co.,35,3
+857,"Men's Bib-Shorts, L",Ropa,Culotes,144,0.000,Fitness Association,60,3
+856,"Men's Bib-Shorts, M",Ropa,Culotes,108,0.022,Fitness Association,60,3
+855,"Men's Bib-Shorts, S",Ropa ,Culotes,72,0.005,Fitness Association,60,3
+712,AWC Logo Cap,Ropa,Gorras,,11.770,Integrated Sport Products,45,3
+863,"Full-Finger Gloves, L",Ropa,Guantes,144,0.036,Team Athletic Co.,25,3
+862,"Full-Finger Gloves, M",Ropa,Guantes,108,0.025,Team Athletic Co.,25,3
+861,"Full-Finger Gloves, S",Ropa,Guantes,72,0.019,Team Athletic Co.,25,3
+860,"Half-Finger Gloves, L", Ropa,Guantes,36,2.268,Team Athletic Co.,15,3
+859,"Half-Finger Gloves, M",Ropa,Guantes,0,5.290,Team Athletic Co.,15,3
+858,"Half-Finger Gloves, S",Ropa,Guantes,324,3.625,Team Athletic Co.,15,3
+715,"Long-Sleeve Logo Jersey, L",Ropa,Jerseys,216,7.077,Integrated Sport Products,45,3
+714,"Long-Sleeve Logo Jersey, M",ROPA,Jerseys,180,4.258,Integrated Sport Products,45,3
+713,"Long-Sleeve Logo Jersey, S",Ropa,Jerseys,144,1.162,Integrated Sport Products,45,3
+716,"Long-Sleeve Logo Jersey, XL",Ropa,Jerseys,252,3.036,Integrated Sport Products,45,3
+883,"Short-Sleeve Classic Jersey, L",Ropa,Jerseys,36,6.282,Integrated Sport Products,30,3
+882,"Short-Sleeve Classic Jersey, M",Ropa,Jerseys,0,1.074,Integrated Sport Products,30,3
+881,"Short-Sleeve Classic Jersey, S", Ropa,Jerseys,324,4.205,Integrated Sport Products,30,3
+884,"Short-Sleeve Classic Jersey, XL",ropa,Jerseys,72,8.468,Integrated Sport Products,30,3
+710,"Mountain Bike Socks, L",Ropa,Medias,216,0.000,Jeff's Sporting Goods,12,3
+709,"Mountain Bike Socks, M",Ropa ,Medias,180,0.000,Jeff's Sporting Goods,12,3
+875,"Racing Socks, L",Ropa,Medias,288,5.400,Jeff's Sporting Goods,25,3
+874,"Racing Socks, M",Ropa,Medias,252,3.438,Jeff's Sporting Goods,25,3
+850,"Men's Sports Shorts, L",Ropa,Shorts,144,0.000,Fitness Association,45,3
+849,"Men's Sports Shorts, M",Ropa,Shorts,108,0.005,Fitness Association,45,3
+841,"Men's Sports Shorts, S",ROPA,Shorts,288,0.000,Integrated Sport Products,60,3
+851,"Men's Sports Shorts, XL", Ropa,Shorts,180,0.000,Fitness Association,45,3
+869,"Women's Mountain Shorts, L",Ropa,Shorts,288,7.348,Team Athletic Co.,25,3
+868,"Women's Mountain Shorts, M",Ropa,Shorts,252,2.729,Team Athletic Co.,25,3
+867,"Women's Mountain Shorts, S",Ropa,Shorts,216,7.367,Team Athletic Co.,25,3
